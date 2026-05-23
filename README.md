@@ -54,6 +54,7 @@ Estrutura inicializada com ferramentas modernas voltada para a criação de micr
 
 * **GitHub Profile:** [github.com/nilsonoliv](https://github.com/nilsonoliv)
 * **Projetos em Produção:** [Dashboard TI Bancária](https://concursos-alternativos.vercel.app/)
+* **Projetos em Produção:** [Dashboard Concursos](https://nilsonoliv.github.io/Guia_de_estudos_concurso-v3/) (https://github.com/nilsonoliv/Guia_de_estudos_concurso-v3.git)
 
 ---
 <p align="center">Desenvolvido com foco em excelência técnica, arquitetura modular e aprovação.</p>
